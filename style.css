@@ -1,0 +1,41 @@
+@charset "utf-8";
+body {
+	background-color: #CCC;
+	margin: 0px;
+	padding: 0px;
+}
+.kotak {
+	background-color: #FFF;
+	width: 1000px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+.header {
+	background-color: #099;
+	float: left;
+	height: 100px;
+	width: 1000px;
+}
+.navigasi {
+	background-color: #FFF;
+	float: left;
+	height: auto;
+	width: 1000px;
+}
+.footer {
+	background-color: #099;
+	height: 450px;
+	width: 1000px;
+	float: left;
+	background-image: url(image/bg-1.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.foter {
+	float: left;
+	height: 50px;
+	width: 1000px;
+	background-color: #FFF;
+}

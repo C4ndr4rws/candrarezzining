@@ -1,0 +1,25 @@
+@charset "utf-8";
+body {
+	background-color: #CCC;
+	margin: 0px;
+	padding: 0px;
+}
+.kotak {
+	background-color: #FFF;
+	width: 1000px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+.content {
+	background-color: #099;
+	float: left;
+	width: 1000px;
+}
+.footer {
+	background-color: #099;
+	float: left;
+	height: 50px;
+	width: 1000px;
+}
